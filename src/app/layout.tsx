@@ -62,7 +62,7 @@ export default function RootLayout({
 		<html lang='en' suppressHydrationWarning>
 			<head>
 				{/* Google Search Console Verification */}
-				<meta name="google-site-verification" content="YOUR-VERIFICATION-CODE" />
+				<meta name="google-site-verification" content="gbhgfsL8oaPio419AgrjwP0xcCgSMBIZy_3ShzYU_8k" />
 
 				{/* Google AdSense */}
 				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4500547980522610" crossOrigin="anonymous"></script>
