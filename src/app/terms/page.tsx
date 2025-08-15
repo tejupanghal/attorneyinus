@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-	title: "Terms of Service - ResizeIt | Usage Terms and Conditions",
+	title: "Terms of Service - Attorneyinus | Usage Terms and Conditions",
 	description:
-		"Read ResizeIt's terms of service to understand the terms and conditions for using our free image resizing tool.",
+		"Read Attorneyinus's terms of service to understand the terms and conditions for using our free image resizing tool.",
 	keywords:
 		"terms of service, usage terms, image resizing terms, service conditions",
 };
@@ -24,11 +24,11 @@ export default function TermsPage() {
 
 					<div className='bg-green-50 border border-green-200 rounded-lg p-6 mb-8'>
 						<h2 className='text-xl font-semibold text-green-900 mb-2'>
-							Welcome to ResizeIt
+							Welcome to Attorneyinus.Com
 						</h2>
 						<p className='text-green-800'>
 							These terms of service outline the rules and
-							regulations for the use of ResizeIt&apos;s image
+							regulations for the use of Attorneyinus&apos;s image
 							resizing service. By using our service, you agree to
 							these terms.
 						</p>
@@ -37,7 +37,7 @@ export default function TermsPage() {
 					<h2>1. Acceptance of Terms</h2>
 
 					<p>
-						By accessing and using ResizeIt (&quot;the
+						By accessing and using Attorneyinus (&quot;the
 						Service&quot;), you accept and agree to be bound by the
 						terms and provision of this agreement. If you do not
 						agree to abide by the above, please do not use this
@@ -47,7 +47,7 @@ export default function TermsPage() {
 					<h2>2. Description of Service</h2>
 
 					<p>
-						ResizeIt is a free, web-based image resizing tool that
+						Attorneyinus is a free, web-based image resizing tool that
 						allows users to:
 					</p>
 					<ul>
@@ -70,7 +70,7 @@ export default function TermsPage() {
 
 					<h3>3.1 Acceptable Use</h3>
 					<p>
-						You agree to use ResizeIt only for lawful purposes and
+						You agree to use Attorneyinus only for lawful purposes and
 						in accordance with these Terms of Service. You agree not
 						to:
 					</p>
@@ -97,7 +97,7 @@ export default function TermsPage() {
 					<h3>3.2 Content Ownership</h3>
 					<p>
 						You retain full ownership of all images you process
-						through ResizeIt. We do not claim any rights to your
+						through Attorneyinus. We do not claim any rights to your
 						content, and since processing happens in your browser,
 						we never have access to your images.
 					</p>
@@ -119,7 +119,7 @@ export default function TermsPage() {
 					<h2>5. Limitation of Liability</h2>
 
 					<p>
-						ResizeIt is provided &quot;as is&quot; without any
+						Attorneyinus is provided &quot;as is&quot; without any
 						warranties, expressed or implied. We shall not be liable
 						for any damages arising from:
 					</p>
@@ -160,7 +160,7 @@ export default function TermsPage() {
 					<h2>7. Intellectual Property</h2>
 
 					<p>
-						The ResizeIt service, including its design,
+						The Attorneyinus service, including its design,
 						functionality, and code, is protected by intellectual
 						property laws. You may not:
 					</p>
@@ -211,13 +211,13 @@ export default function TermsPage() {
 						please contact us:
 					</p>
 					<ul>
-						<li>Email: legal@example.com</li>
+						<li>Email: Attorneyinus@gmail.com</li>
 						<li>
 							Contact Form:{" "}
 							<a
 								href='/contact'
 								className='text-blue-600 hover:underline'>
-								example.com/contact
+								Attorneyinus.com/contact
 							</a>
 						</li>
 					</ul>
