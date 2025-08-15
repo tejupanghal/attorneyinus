@@ -7,11 +7,11 @@ import { Textarea } from "@/components/ui/textarea";
 import { Mail, MessageSquare, Clock, MapPin } from "lucide-react";
 
 export const metadata: Metadata = {
-	title: "Contact Us - ResizeIt | Get Help with Image Resizing",
+	title: "Contact Us - Attorneyinus | Get Help with Image Resizing",
 	description:
-		"Contact the ResizeIt team for support, feedback, or questions about our image resizing tool. We're here to help you optimize your images.",
+		"Contact the Attorneyinus team for support, feedback, or questions about our image resizing tool. We're here to help you optimize your images.",
 	keywords:
-		"contact resizeIt, image resizing support, customer service, help with image optimization",
+		"contact Attorneyinus, image resizing support, customer service, help with image optimization",
 };
 
 export default function ContactPage() {
@@ -24,7 +24,7 @@ export default function ContactPage() {
 						Get in Touch
 					</h1>
 					<p className='text-xl text-slate-600 max-w-3xl mx-auto'>
-						Have questions about ResizeIt? Need help with image
+						Have questions about Attorneyinus? Need help with image
 						optimization? We&apos;d love to hear from you and help
 						you get the most out of our tools.
 					</p>
@@ -114,7 +114,7 @@ export default function ContactPage() {
 											Email
 										</p>
 										<p className='text-slate-600'>
-											support@resizeIt.com
+											Attorneyinus@gmail.com
 										</p>
 									</div>
 								</div>
@@ -138,7 +138,7 @@ export default function ContactPage() {
 											Location
 										</p>
 										<p className='text-slate-600'>
-											Global - Remote Team
+											Sector 45, Chandigarh, Inida
 										</p>
 									</div>
 								</div>
@@ -154,10 +154,10 @@ export default function ContactPage() {
 							<CardContent className='space-y-4'>
 								<div>
 									<h4 className='font-medium text-slate-900 mb-1'>
-										Is ResizeIt really free?
+										Is Attorneyinus really free?
 									</h4>
 									<p className='text-sm text-slate-600'>
-										Yes! ResizeIt is completely free with no
+										Yes! Attorneyinus is completely free with no
 										hidden costs or limitations.
 									</p>
 								</div>
