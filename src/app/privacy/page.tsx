@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-	title: "Privacy Policy - ResizeIt | Your Data Protection Rights",
+	title: "Privacy Policy - Attorneyinus | Your Data Protection Rights",
 	description:
-		"Read ResizeIt's privacy policy to understand how we protect your data and ensure your privacy while using our image resizing tool.",
+		"Read Attorneyinus's privacy policy to understand how we protect your data and ensure your privacy while using our image resizing tool.",
 	keywords:
 		"privacy policy, data protection, image resizing privacy, user data security",
 };
@@ -27,7 +27,7 @@ export default function PrivacyPage() {
 							Privacy First Approach
 						</h2>
 						<p className='text-blue-800'>
-							ResizeIt is designed with privacy as a core
+							Attorneyinus is designed with privacy as a core
 							principle. All image processing happens directly in
 							your browser, which means your images never leave
 							your device or get uploaded to our servers.
@@ -38,7 +38,7 @@ export default function PrivacyPage() {
 
 					<h3>1.1 Images and Files</h3>
 					<p>
-						When you use ResizeIt to process images, these files are
+						When you use Attorneyinus to process images, these files are
 						processed entirely within your web browser using
 						client-side JavaScript. We do not upload, store, or have
 						access to any images you process through our service.
@@ -196,10 +196,10 @@ export default function PrivacyPage() {
 						our privacy practices, please contact us at:
 					</p>
 					<ul>
-						<li>Email: privacy@example.com</li>
+						<li>Email: Attorneyinus@gmail.com</li>
 						<li>
 							Contact Form:{" "}
-							<a href='/contact'>example.com/contact</a>
+							<a href='/contact'>Attorneyinus.com/contact</a>
 						</li>
 					</ul>
 
@@ -208,7 +208,7 @@ export default function PrivacyPage() {
 							Summary
 						</h3>
 						<p className='text-slate-700'>
-							ResizeIt is committed to protecting your privacy. We
+							Attorneyinus is committed to protecting your privacy. We
 							process images locally in your browser, collect
 							minimal analytics data, and never share your
 							personal information with third parties for
