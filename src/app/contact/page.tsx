@@ -138,7 +138,7 @@ export default function ContactPage() {
 											Location
 										</p>
 										<p className='text-slate-600'>
-											Sector 45, Chandigarh, Inida
+											Sector 45, Chandigarh, India
 										</p>
 									</div>
 								</div>
