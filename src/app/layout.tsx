@@ -8,27 +8,27 @@ import { Footer } from "@/components/footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "ResizeIt - Professional Image Resizing Tool | Free Online Image Resizer",
+	title: "Attorneyinus.Com - Professional Image Resizing Tool | Free Online Image Resizer",
 	description:
 		"Resize images online for free. Professional image resizing tool with dimension control, file size optimization, and batch processing. Support for JPG, PNG, WebP formats.",
 	keywords:
 		"image resize, photo resize, image compression, online image editor, free image resizer, photo editor",
-	authors: [{ name: "ResizeIt Team" }],
-	creator: "ResizeIt",
-	publisher: "ResizeIt",
+	authors: [{ name: "Attorneyinus Team" }],
+	creator: "Attorneyinus",
+	publisher: "Attorneyinus",
 	robots: "index, follow",
 	openGraph: {
 		type: "website",
 		locale: "en_US",
-		url: "https://example.com",
-		title: "ResizeIt - Professional Image Resizing Tool",
+		url: "https://attorneyinus.com",
+		title: "Attorneyinus - Professional Image Resizing Tool",
 		description:
 			"Resize images online for free with our professional image resizing tool.",
-		siteName: "ResizeIt",
+		siteName: "Attorneyinus",
 	},
 	twitter: {
 		card: "summary_large_image",
-		title: "ResizeIt - Professional Image Resizing Tool",
+		title: "Attorneyinus - Professional Image Resizing Tool",
 		description:
 			"Resize images online for free with our professional image resizing tool.",
 	},
