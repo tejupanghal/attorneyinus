@@ -74,7 +74,8 @@ export function Footer() {
         <div className="border-t border-slate-800 mt-8 pt-8 text-center text-slate-400">
           <p>&copy; {new Date().getFullYear()} Attorneyinus. All rights reserved.</p>
         </div>
-      </div>
+      </div><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5792247022437144"
+     crossorigin="anonymous"></script>
     </footer>
   )
 }
