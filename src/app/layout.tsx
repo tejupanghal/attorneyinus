@@ -65,7 +65,8 @@ export default function RootLayout({
 				<meta name="google-site-verification" content="gbhgfsL8oaPio419AgrjwP0xcCgSMBIZy_3ShzYU_8k" />
 
 				{/* Google AdSense */}
-				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5554834875451266" crossOrigin="anonymous"></script>
+				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5792247022437144"
+     crossorigin="anonymous"></script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5792247022437144" crossOrigin="anonymous"></script>
 
 				{/* Google Analytics */}
 				<GoogleAnalytics />
